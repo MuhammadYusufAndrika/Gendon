@@ -1,5 +1,5 @@
 export const MEMBERS = [
-    { images: '/images/members/DSC09883.jpg' },
+    { images: '/images/members/DSC09883.JPG' },
     { images: '/images/members/DSC09884.jpg' },
     { images: '/images/members/DSC09885.jpg' },
     { images: '/images/members/DSC09886.jpg' },
